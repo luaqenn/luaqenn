@@ -1,18 +1,28 @@
-# Hi ^^ it's luaqenn
+# 👋 Hi, I'm **luaqenn**
 
-Welcome! I’m Bora Atas, a passionate software engineering and technology enthusiast. Over the years, I’ve actively contributed to exciting projects, including participation in Teknofest's Hyperloop and UAV competitions, as well as leading TÜBİTAK 2209-A and 3501 projects to deliver impactful innovations. My expertise spans software development, electronics, and embedded systems, with hands-on experience using STM32, ESP32 and Arduino. I also have a strong relationship in game development, creating Minecraft plugins since 2018.
-</img>
+### 💬 Connect with Me  
+- 💻 Discord: `luaqenn`  
+- 📧 Email: [luaqen@gmail.com](mailto:luaqen@gmail.com)
 
-## 📫 Get Contact with me at
-* Discord: luaqenn
-* Website: https://luaqenn.dev
-* E-Mail Adress: luaqen@gmail.com
+---
 
-## 🔭 I’m currently working on 'a lot of things'.                                        
- * cubemite.net
- * minezio.com
- * blockrp.com                                                           
+### 🚀 Currently Working On  
+- 🌐 [cubemite.net](https://cubemite.net)  
+- 🌐 [minezio.com](https://minezio.com)  
+- 🌐 [blockrp.com](https://blockrp.com)
 
-## 😄 Speaking
- * Turkish is my primary language.
- * My English level is B1
+---
+
+### 🌍 Languages I Speak  
+- 🇹🇷 Turkish (Native)  
+- 🇬🇧 English (Intermediate - B1)
+
+---
+
+### 💡 About Me  
+A passionate developer juggling multiple projects, mostly focused on Minecraft servers, web backend, and creative systems. Always learning, always building.
+
+---
+
+> _“Keep building. Even if it’s messy.”_
+
