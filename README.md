@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 Currently Working On  
-- 🌐 [cubemite.net](https://cubemite.net)  
-- 🌐 [minezio.com](https://minezio.com)  
-- 🌐 [blockrp.com](https://blockrp.com)
+- 🌐 [cubemite.net](https://cubemite.net) [active]
+- 🌐 [minezio.com](https://minezio.com) [under maintenance]
+- 🌐 [blockrp.com](https://blockrp.com) [under maintenance]
 
 ---
 
