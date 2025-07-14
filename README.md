@@ -2,7 +2,6 @@
 
 ### 💬 Connect with Me  
 - 💻 Discord: `luaqen1`
-- 
 ---
 
 ### 🚀 Currently Working On  
