@@ -1,9 +1,8 @@
 # 👋 Hi, I'm **luaqenn**
 
 ### 💬 Connect with Me  
-- 💻 Discord: `luaqen1`  
-- 📧 Email: [luaqen@gmail.com](mailto:luaqen@gmail.com)
-
+- 💻 Discord: `luaqen1`
+- 
 ---
 
 ### 🚀 Currently Working On  
