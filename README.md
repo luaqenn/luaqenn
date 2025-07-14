@@ -7,9 +7,8 @@
 ---
 
 ### 🚀 Currently Working On  
-- 🌐 [nocteria.com](https:/nocteria.com) [active]
-- 🌐 [minezio.com](https://minezio.com) [under maintenance]
-
+- 🌐 Manager - [minezio.com](https://minezio.com) [Active]
+- 🌐 Developer & Staff - [crafter.net.tr](https:/crafter.net.tr) [Active]
 ---
 
 ### 🌍 Languages I Speak  
