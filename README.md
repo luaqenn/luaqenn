@@ -5,8 +5,8 @@
 ---
 
 ### 🚀 Currently Working On  
-- 🌐 Manager - [minezio.com](https://minezio.com) [Active]
-- 🌐 Developer & Staff - [crafter.net.tr](https:/crafter.net.tr) [Active]
+- 🌐 Owner - [relivamc.com](https://relivamc.com) [Active]
+- 🌐 Developer & Manager - [crafter.net.tr](https:/crafter.net.tr) [Active]
 ---
 
 ### 🌍 Languages I Speak  
